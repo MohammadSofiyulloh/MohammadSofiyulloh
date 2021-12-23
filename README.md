@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammadSofiyulloh
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Programming
+- 🌱 I’m currently learning at Jember University
 - 📫 How to reach me IG: @muhammadsofi__ | email: muhammadsofiyulloh877@gmail.com
 
 <!---
